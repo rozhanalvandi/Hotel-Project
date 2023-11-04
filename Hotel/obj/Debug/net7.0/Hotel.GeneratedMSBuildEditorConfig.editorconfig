@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0FkbWluRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/CreateBaner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9DcmVhdGVCYW5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/ListOfBaners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9MaXN0T2ZCYW5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

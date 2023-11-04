@@ -920,4 +920,15 @@ ul  li{
   height: 200px;
 }
 
+.admin-table{
+
+    overflow:hidden;
+    border-redius:10px;
+}
+.baner-img{
+
+    width: 100%;
+    max-height:200px;
+}
+
 /* End Gallery */

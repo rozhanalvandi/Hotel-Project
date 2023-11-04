@@ -9,12 +9,12 @@ namespace Hotel.Models.Entities.Web
 		public int Id { get; set; }
 
 		[Display(Name ="عنوان")]
-		[Required(ErrorMessage ="لطفا{0}را کامل کنید")]
+		[Required(ErrorMessage ="لطفا{0} را کامل کنید")]
 		
 		public string BanerTitle { get; set; }
 
         [Display(Name ="متن دکمه")]
-        [Required(ErrorMessage = "لطفا{0}را کامل کنید")]
+        [Required(ErrorMessage = "لطفا{0} را کامل کنید")]
 		public string BanerButton { get; set; }
 
         [Display(Name ="تصویر بنر")]

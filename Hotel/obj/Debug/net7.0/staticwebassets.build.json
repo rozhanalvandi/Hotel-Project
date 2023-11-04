@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "As1GR4WAZRGEazoDe2YnFt3qZaQ87FX6r/jDIDc7p+k=",
+  "Hash": "O9hu5NGNC0namRJffYqWDztYPnwUZ5fwEGreN0nGO+I=",
   "Source": "Hotel",
   "BasePath": "_content/Hotel",
   "Mode": "Default",
@@ -3026,6 +3026,23 @@
       "OriginalItemSpec": "wwwroot/asset/fonts/Yekan.woff"
     },
     {
+      "Identity": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/2747.webp",
+      "SourceId": "Hotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/",
+      "BasePath": "_content/Hotel",
+      "RelativePath": "asset/img/2747.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/asset/img/2747.webp"
+    },
+    {
       "Identity": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/bg_pattern.svg",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
@@ -3262,6 +3279,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/asset/img/shomal.jpg"
+    },
+    {
+      "Identity": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/thumb-521cd7ab2598d7c7600255ed4c1e7400-ACtC-3dUUhnPukyvA_B6PwqK5wuvQSefQm0xRixxvut1pU3-DTccroA8pzNt6Yvi0UaPGM5YbXPt7YajBpUlEjDYd_g10GKPk_ueHlRlv6ujTvRbWnYdSxcW9wOLsWye-Nw7UVF1yoOOVCh6Wg7QFVRE6-vldw=w1358-h905-no.jpg",
+      "SourceId": "Hotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/",
+      "BasePath": "_content/Hotel",
+      "RelativePath": "asset/img/thumb-521cd7ab2598d7c7600255ed4c1e7400-ACtC-3dUUhnPukyvA_B6PwqK5wuvQSefQm0xRixxvut1pU3-DTccroA8pzNt6Yvi0UaPGM5YbXPt7YajBpUlEjDYd_g10GKPk_ueHlRlv6ujTvRbWnYdSxcW9wOLsWye-Nw7UVF1yoOOVCh6Wg7QFVRE6-vldw=w1358-h905-no.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/asset/img/thumb-521cd7ab2598d7c7600255ed4c1e7400-ACtC-3dUUhnPukyvA_B6PwqK5wuvQSefQm0xRixxvut1pU3-DTccroA8pzNt6Yvi0UaPGM5YbXPt7YajBpUlEjDYd_g10GKPk_ueHlRlv6ujTvRbWnYdSxcW9wOLsWye-Nw7UVF1yoOOVCh6Wg7QFVRE6-vldw=w1358-h905-no.jpg"
     },
     {
       "Identity": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Tower-img.png",

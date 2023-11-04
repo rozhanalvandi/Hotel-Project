@@ -1,0 +1,73 @@
+﻿@model FirstBaner
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ادمین سایت</title>
+
+    <link href="asset/css/bootstrap.rtl.css" rel="stylesheet" />
+    <link href="asset/css/style.css" rel="stylesheet" />
+    <link href="asset/css/meadia.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+        <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="#">
+            سایت هتل
+        </a>
+        <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false"
+                aria-label="دکمه منو سایز موبایل">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="جستجو"
+               aria-label="جستجو" />
+        <div class="navbar-nav">
+            <div class="nav-item text-nowrap">
+                <a class="nav-link px-3" href="index.html"> خروج </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <h2 class="py-3"> ایجاد بنر</h2>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form action="" method="post">
+            <div class="col-12 w-50">
+                <div class="mb-3">
+                    <label asp-for="ImageName" class="form-label"> </label>
+                    <input asp-for="ImageName" class="form-control">
+                    
+                </div>
+                <div class="mb-3">
+                    <label asp-for="BanerTitle" class="form-label"></label>
+                    <input asp-for="BanerTitle" class="form-control text-start" placeholder="مثال : تخفیف بگیرید">
+                    <span asp-validation-for="BanerTitle" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="BanerButton" class="form-label"> </label>
+                    <input asp-for="BanerButton"  class="form-control text-start" placeholder="مثال : خرید کنید">
+                    <span asp-validation-for="BanerButton" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-success"> ساخت بنر </button>
+                </div>
+            </div>
+        </form>
+
+    </div>
+
+    <script src="asset/js/bootstrap.bundle.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js"
+            integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"
+            integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha"
+            crossorigin="anonymous"></script>
+    <script src="asset/js/dashboard.js"></script>
+</body>
+
+</html>

@@ -709,6 +709,10 @@
       "PackagePath": "staticwebassets/asset/fonts/yekan-regular.woff"
     },
     {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/2747.webp",
+      "PackagePath": "staticwebassets/asset/img/2747.webp"
+    },
+    {
       "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/Almas.jpg",
       "PackagePath": "staticwebassets/asset/img/Hotel/Almas.jpg"
     },
@@ -767,6 +771,10 @@
     {
       "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/shomal.jpg",
       "PackagePath": "staticwebassets/asset/img/shomal.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/thumb-521cd7ab2598d7c7600255ed4c1e7400-ACtC-3dUUhnPukyvA_B6PwqK5wuvQSefQm0xRixxvut1pU3-DTccroA8pzNt6Yvi0UaPGM5YbXPt7YajBpUlEjDYd_g10GKPk_ueHlRlv6ujTvRbWnYdSxcW9wOLsWye-Nw7UVF1yoOOVCh6Wg7QFVRE6-vldw=w1358-h905-no.jpg",
+      "PackagePath": "staticwebassets/asset/img/thumb-521cd7ab2598d7c7600255ed4c1e7400-ACtC-3dUUhnPukyvA_B6PwqK5wuvQSefQm0xRixxvut1pU3-DTccroA8pzNt6Yvi0UaPGM5YbXPt7YajBpUlEjDYd_g10GKPk_ueHlRlv6ujTvRbWnYdSxcW9wOLsWye-Nw7UVF1yoOOVCh6Wg7QFVRE6-vldw=w1358-h905-no.jpg"
     },
     {
       "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/js/bootstrap.bundle.js",
