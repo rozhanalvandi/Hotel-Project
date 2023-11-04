@@ -23,6 +23,7 @@
     <None Remove="Areas\Admin\Views\" />
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="Areas\Admin\Views\MiniBaners\" />
+    <None Remove="Models\Entities\User\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -40,6 +41,7 @@
     <Folder Include="Areas\Admin\Views\" />
     <Folder Include="Areas\Admin\Views\Dashboard\" />
     <Folder Include="Areas\Admin\Views\MiniBaners\" />
+    <Folder Include="Models\Entities\User\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

@@ -1,4 +1,5 @@
 ﻿using System;
+using Hotel.Models.Entities.User;
 using Hotel.Models.Entities.Web;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,6 +17,7 @@ namespace Hotel.Data
         protected override void OnConfiguring(DbContextOptionsBuilder options) =>
         options.UseSqlite("Data Source=data.db");
         public DbSet<FirstBaner> firstBaners { get; set; }
+        public DbSet<User> users { get; set; }
     }
 }
 
