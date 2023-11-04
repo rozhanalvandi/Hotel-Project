@@ -61,21 +61,54 @@ namespace Hotel.Areas.Admin.Controllers
             return RedirectToAction(nameof(ListOfBaners));
         }
         [HttpPost]
-        public IActionResult EditBaner(FirstBaner firstBaner)
+        public IActionResult EditBaner(int? id,FirstBaner firstBaner)
         {
-            if (ModelState.IsValid)
+            if(id == firstBaner.Id)
             {
-                var newbaner = new FirstBaner()
-                {
-                    BanerTitle = firstBaner.BanerTitle,
-                    BanerButton = firstBaner.BanerButton,
-                    ImageName = firstBaner.ImageName
-                };
-                _context.firstBaners.Add(newbaner);
-                _context.SaveChanges();
-                return RedirectToAction(nameof(ListOfBaners));
+               if (ModelState.IsValid)
+               {
+                   var mybaner = _context.firstBaners.SingleOrDefault(e => e.Id == id);
+                    mybaner.BanerTitle = firstBaner.BanerTitle;
+                    mybaner.BanerButton = firstBaner.BanerButton;
+                    mybaner.ImageName = firstBaner.ImageName;
+                   _context.firstBaners.Update(mybaner);
+                   _context.SaveChanges();
+                   return RedirectToAction(nameof(ListOfBaners));
+               }
+
+                ModelState.AddModelError("ModelOnly", "لطفا فیلد ها را پر کنید");
+                return View(firstBaner);
             }
-            ModelState.AddModelError("ModelOnly", "لطفا فیلد ها را کامل پر کنید");
+            
+            ModelState.AddModelError("ModelOnly", "لطفا فیلد ها را پر کنید");
+            return View(firstBaner);
+        }
+        public IActionResult DeleteBaner(int? id)
+        {
+            if (id != null)
+            {
+                var baner = _context.firstBaners.SingleOrDefault(e => e.Id == id);
+                if (baner != null)
+                {
+                    return View(baner);
+                }
+            }
+            return RedirectToAction(nameof(ListOfBaners));
+        }
+        [HttpPost]
+        public IActionResult DeleteBaner(int? id, FirstBaner firstBaner)
+        {
+            if (id == firstBaner.Id)
+            {
+                
+                    var mybaner = _context.firstBaners.SingleOrDefault(e => e.Id == id);
+                    _context.firstBaners.Remove(mybaner);
+                    _context.SaveChanges();
+                    return RedirectToAction(nameof(ListOfBaners));
+                
+            }
+
+            ModelState.AddModelError("ModelOnly", "لطفا فیلد ها را پر کنید");
             return View(firstBaner);
         }
     }

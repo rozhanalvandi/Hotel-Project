@@ -13,28 +13,11 @@
 </head>
 
 <body>
-    <header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
-        <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="#">
-            سایت هتل
-        </a>
-        <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse"
-                data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false"
-                aria-label="دکمه منو سایز موبایل">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="جستجو"
-               aria-label="جستجو" />
-        <div class="navbar-nav">
-            <div class="nav-item text-nowrap">
-                <a class="nav-link px-3" href="index.html"> خروج </a>
-            </div>
-        </div>
-    </header>
-
     <div class="container">
         <h2 class="py-3"> ویرایش بنر</h2>
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
         <form action="EditBaner" method="post">
+            <input asp-for="Id" type="hidden"/>
             <div class="col-12 w-50">
                 <div class="mb-3">
                     <label asp-for="ImageName" class="form-label"> </label>
@@ -52,7 +35,7 @@
                     <span asp-validation-for="BanerButton" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
-                    <button type="submit" class="btn btn-success"> ثبت ویرایش  </button>
+                    <button type="submit" class="btn btn-warning"> ثبت ویرایش  </button>
                 </div>
             </div>
         </form>
