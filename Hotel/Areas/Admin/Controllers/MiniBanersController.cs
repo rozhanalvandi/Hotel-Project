@@ -48,6 +48,36 @@ namespace Hotel.Areas.Admin.Controllers
             ModelState.AddModelError("ModelOnly", "لطفا فیلد ها را کامل پر کنید");
             return View(firstBaner);
         }
+        public IActionResult EditBaner(int? id)
+        {
+            if(id!=null)
+            {
+                var baner = _context.firstBaners.SingleOrDefault(e => e.Id == id);
+                if(baner!= null)
+                {
+                    return View(baner);
+                }
+            }
+            return RedirectToAction(nameof(ListOfBaners));
+        }
+        [HttpPost]
+        public IActionResult EditBaner(FirstBaner firstBaner)
+        {
+            if (ModelState.IsValid)
+            {
+                var newbaner = new FirstBaner()
+                {
+                    BanerTitle = firstBaner.BanerTitle,
+                    BanerButton = firstBaner.BanerButton,
+                    ImageName = firstBaner.ImageName
+                };
+                _context.firstBaners.Add(newbaner);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(ListOfBaners));
+            }
+            ModelState.AddModelError("ModelOnly", "لطفا فیلد ها را کامل پر کنید");
+            return View(firstBaner);
+        }
     }
 }
 

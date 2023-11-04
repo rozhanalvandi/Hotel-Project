@@ -58,8 +58,8 @@
                                     <td>@item.BanerTitle</td>
                                     <td>@item.BanerButton</td>
                                     <td>
-                                        <a href="" class="btn btn-sm btn-outline-warning">ویرایش</a>
-                                        <a href="" class="btn btn-sm btn-outline-danger ms-2">حذف</a>
+                                        <a asp-controller="MiniBaners" asp-action="EditBaner" asp-route-Id="@item.Id" class="btn btn-sm btn-outline-warning">ویرایش</a>
+                                        <a asp-controller="MiniBaners" asp-action="CreateBaner" asp-route-Id="@item.Id" class="btn btn-sm btn-outline-danger ms-2">حذف</a>
                                     </td>
                                 </tr>
                             }

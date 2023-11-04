@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9DcmVhdGVCYW5lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/EditBaner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9FZGl0QmFuZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/ListOfBaners.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9MaXN0T2ZCYW5lcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

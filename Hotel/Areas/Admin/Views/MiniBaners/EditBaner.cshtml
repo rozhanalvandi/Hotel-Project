@@ -32,14 +32,14 @@
     </header>
 
     <div class="container">
-        <h2 class="py-3"> ایجاد بنر</h2>
+        <h2 class="py-3"> ویرایش بنر</h2>
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-        <form action="CreateBaner" method="post">
+        <form action="EditBaner" method="post">
             <div class="col-12 w-50">
                 <div class="mb-3">
                     <label asp-for="ImageName" class="form-label"> </label>
                     <input asp-for="ImageName" class="form-control">
-                    
+
                 </div>
                 <div class="mb-3">
                     <label asp-for="BanerTitle" class="form-label"></label>
@@ -48,11 +48,11 @@
                 </div>
                 <div class="mb-3">
                     <label asp-for="BanerButton" class="form-label"> </label>
-                    <input asp-for="BanerButton"  class="form-control text-start" placeholder="مثال : خرید کنید">
+                    <input asp-for="BanerButton" class="form-control text-start" placeholder="مثال : خرید کنید">
                     <span asp-validation-for="BanerButton" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
-                    <button type="submit" class="btn btn-success"> ساخت بنر </button>
+                    <button type="submit" class="btn btn-success"> ثبت ویرایش  </button>
                 </div>
             </div>
         </form>
