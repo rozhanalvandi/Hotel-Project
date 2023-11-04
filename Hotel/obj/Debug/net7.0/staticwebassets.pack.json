@@ -1,0 +1,797 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/asset/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/css/meadia.css",
+      "PackagePath": "staticwebassets/asset/css/meadia.css"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/css/style.css",
+      "PackagePath": "staticwebassets/asset/css/style.css"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/Yekan.eot",
+      "PackagePath": "staticwebassets/asset/fonts/Yekan.eot"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/Yekan.svg",
+      "PackagePath": "staticwebassets/asset/fonts/Yekan.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/Yekan.ttf",
+      "PackagePath": "staticwebassets/asset/fonts/Yekan.ttf"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/Yekan.woff",
+      "PackagePath": "staticwebassets/asset/fonts/Yekan.woff"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/0-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/0-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/0-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/0-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/0-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/0-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/0-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/0-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/1-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/1-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/1-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/1-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/1-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/1-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/1-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/1-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/123.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/123.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/2-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/2-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/2-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/2-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/2-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/2-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/2-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/2-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/3-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/3-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/3-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/3-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/3-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/3-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/3-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/3-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/4-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/4-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/4-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/4-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/4-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/4-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/4-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/4-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/5-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/5-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/5-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/5-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/5-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/5-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/5-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/5-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/6-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/6-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/6-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/6-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/6-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/6-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/6-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/6-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/7-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/7-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/7-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/7-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/7-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/7-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/7-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/7-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/8-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/8-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/8-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/8-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/8-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/8-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/8-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/8-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/9-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/9-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/9-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/9-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/9-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/9-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/9-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/9-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/activity.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/activity.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/airplane-engines-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/airplane-engines-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/airplane-engines.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/airplane-engines.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/airplane-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/airplane-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/airplane.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/airplane.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/alarm-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/alarm-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/alarm.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/alarm.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/alexa.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/alexa.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/align-bottom.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/align-bottom.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/align-center.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/align-center.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/align-end.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/align-end.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/align-middle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/align-middle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/align-start.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/align-start.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/align-top.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/align-top.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/alipay.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/alipay.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/alt.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/alt.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/amd.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/amd.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/android.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/android.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/android2.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/android2.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/app-indicator.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/app-indicator.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/app.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/app.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/apple.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/apple.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/archive-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/archive-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/archive.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/archive.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-90deg-down.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-90deg-down.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-90deg-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-90deg-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-90deg-right.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-90deg-right.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-90deg-up.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-90deg-up.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-bar-down.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-bar-down.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-bar-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-bar-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-bar-right.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-bar-right.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-bar-up.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-bar-up.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-clockwise.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-clockwise.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-counterclockwise.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-counterclockwise.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-left-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-left-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-left-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-left-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-left-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-left-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-left-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-left-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-right-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-right-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-right-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-right-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-right-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-right-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-right-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-right-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-right.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-right.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-short.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-short.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down-up.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down-up.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-down.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-down.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-left-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-left-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-left-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-left-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-left-right.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-left-right.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-left-short.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-left-short.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-left-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-left-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-left-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-left-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-repeat.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-repeat.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-return-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-return-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-return-right.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-return-right.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-right-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-right-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-right-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-right-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-right-short.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-right-short.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-right-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-right-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-right-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-right-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-right.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-right.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-through-heart-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-through-heart-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-through-heart.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-through-heart.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-left-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-left-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-left-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-left-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-left-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-left-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-left-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-left-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-right-circle-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-right-circle-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-right-circle.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-right-circle.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-right-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-right-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-right-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-right-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-right.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-right.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-short.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-short.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-square-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-square-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up-square.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up-square.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrow-up.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrow-up.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrows-angle-contract.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrows-angle-contract.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrows-angle-expand.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrows-angle-expand.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrows-collapse.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrows-collapse.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrows-expand.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrows-expand.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrows-fullscreen.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrows-fullscreen.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/arrows-move.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/arrows-move.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/aspect-ratio-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/aspect-ratio-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/aspect-ratio.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/aspect-ratio.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/asterisk.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/asterisk.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/at.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/at.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/award-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/award-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/award.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/award.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/back.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/back.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/backspace-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/backspace-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/backspace-reverse-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/backspace-reverse-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/backspace-reverse.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/backspace-reverse.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/backspace.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/backspace.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-3d-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-3d-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-3d.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-3d.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-4k-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-4k-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-4k.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-4k.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-8k-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-8k-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-8k.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-8k.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-ad-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-ad-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-ad.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-ad.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-ar-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-ar-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-ar.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-ar.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-cc-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-cc-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-cc.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-cc.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-hd-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-hd-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-hd.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-hd.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-sd-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-sd-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-sd.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-sd.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-tm-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-tm-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-tm.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-tm.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-vo-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-vo-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-vo.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-vo.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-vr-fill.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-vr-fill.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/badge-vr.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/badge-vr.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/caret-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/caret-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/svg/chevron-compact-left.svg",
+      "PackagePath": "staticwebassets/asset/fonts/svg/chevron-compact-left.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/yekan-regular.eot",
+      "PackagePath": "staticwebassets/asset/fonts/yekan-regular.eot"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/yekan-regular.ttf",
+      "PackagePath": "staticwebassets/asset/fonts/yekan-regular.ttf"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/fonts/yekan-regular.woff",
+      "PackagePath": "staticwebassets/asset/fonts/yekan-regular.woff"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/Almas.jpg",
+      "PackagePath": "staticwebassets/asset/img/Hotel/Almas.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/Espinas.jpg",
+      "PackagePath": "staticwebassets/asset/img/Hotel/Espinas.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/Hotel-Parsi.jpg",
+      "PackagePath": "staticwebassets/asset/img/Hotel/Hotel-Parsi.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/Parsian-Khazar.jpg",
+      "PackagePath": "staticwebassets/asset/img/Hotel/Parsian-Khazar.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/ghasr-talaee-mashhad.jpg",
+      "PackagePath": "staticwebassets/asset/img/Hotel/ghasr-talaee-mashhad.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/homa-hotel-tehran-main.jpg",
+      "PackagePath": "staticwebassets/asset/img/Hotel/homa-hotel-tehran-main.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/hotel.jpg",
+      "PackagePath": "staticwebassets/asset/img/Hotel/hotel.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Hotel/tehran-ibis.webp",
+      "PackagePath": "staticwebassets/asset/img/Hotel/tehran-ibis.webp"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/Tower-img.png",
+      "PackagePath": "staticwebassets/asset/img/Tower-img.png"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/bg_pattern.svg",
+      "PackagePath": "staticwebassets/asset/img/bg_pattern.svg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/header-image.jpg",
+      "PackagePath": "staticwebassets/asset/img/header-image.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/left-mini-banner.jpg",
+      "PackagePath": "staticwebassets/asset/img/left-mini-banner.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/mini-right-baner.jpg",
+      "PackagePath": "staticwebassets/asset/img/mini-right-baner.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/miraj.jpg",
+      "PackagePath": "staticwebassets/asset/img/miraj.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/img/shomal.jpg",
+      "PackagePath": "staticwebassets/asset/img/shomal.jpg"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/asset/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/rozhanalvandi/Projects/Hotel/Hotel/wwwroot/asset/js/dashboard.js",
+      "PackagePath": "staticwebassets/asset/js/dashboard.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Hotel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Hotel.props",
+      "PackagePath": "build\\Hotel.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Hotel.props",
+      "PackagePath": "buildMultiTargeting\\Hotel.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Hotel.props",
+      "PackagePath": "buildTransitive\\Hotel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
