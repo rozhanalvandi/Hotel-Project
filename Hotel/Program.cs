@@ -1,4 +1,5 @@
 ﻿using Hotel.Data;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
 namespace Hotel;
@@ -12,10 +13,26 @@ public class Program
         builder.Services.AddDbContext<MyContext>(op =>
                op.UseSqlite(builder.Configuration.GetConnectionString("AppDbContext")));
         builder.Services.AddControllersWithViews();
+        builder.Services.AddAuthentication(option =>
+
+        {
+            option.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+            option.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+            option.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+        }).AddCookie(option =>
+        {
+            option.LoginPath = "/Login";
+            option.LogoutPath = "/Logout";
+            option.ExpireTimeSpan = TimeSpan.FromDays(10);
+        }); 
+
+       
+        
         var app = builder.Build();
 
         app.UseStaticFiles();
         app.UseRouting();
+        app.UseAuthentication();
         app.UseEndpoints(endpints =>
         {
             endpints.MapControllerRoute(

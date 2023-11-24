@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -19,6 +19,7 @@ namespace Hotel.Controllers
         public IActionResult Index()
         {
             var baner = _context.firstBaners.ToList();
+            TempData["mainPage"] = "mainPage";
             return View(baner);
         }
     }

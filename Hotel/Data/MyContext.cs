@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using Hotel.Models.Entities.User;
 using Hotel.Models.Entities.Web;
 using Microsoft.EntityFrameworkCore;

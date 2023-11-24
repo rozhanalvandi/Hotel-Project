@@ -24,6 +24,10 @@
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="Areas\Admin\Views\MiniBaners\" />
     <None Remove="Models\Entities\User\" />
+    <None Remove="Views\User\" />
+    <None Remove="ViewModels\" />
+    <None Remove="Core\" />
+    <None Remove="Models\Entities\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -42,6 +46,10 @@
     <Folder Include="Areas\Admin\Views\Dashboard\" />
     <Folder Include="Areas\Admin\Views\MiniBaners\" />
     <Folder Include="Models\Entities\User\" />
+    <Folder Include="Views\User\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Core\" />
+    <Folder Include="Models\Entities\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
