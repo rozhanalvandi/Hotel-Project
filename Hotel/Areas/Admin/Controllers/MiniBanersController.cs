@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Hotel.Data;
 using Hotel.Models.Entities.Web;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Hotel.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class MiniBanersController : Controller
     {
         MyContext _context;

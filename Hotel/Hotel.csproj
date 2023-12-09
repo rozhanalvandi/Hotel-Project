@@ -28,6 +28,10 @@
     <None Remove="ViewModels\" />
     <None Remove="Core\" />
     <None Remove="Models\Entities\Product\" />
+    <None Remove="Areas\Admin\Views\Product\" />
+    <None Remove="ViewModels\User\" />
+    <None Remove="ViewModels\Product\" />
+    <None Remove="ViewModels\Product\Hotel\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -50,6 +54,10 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Core\" />
     <Folder Include="Models\Entities\Product\" />
+    <Folder Include="Areas\Admin\Views\Product\" />
+    <Folder Include="ViewModels\User\" />
+    <Folder Include="ViewModels\Product\" />
+    <Folder Include="ViewModels\Product\Hotel\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

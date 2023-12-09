@@ -10,10 +10,15 @@
     <link href="/asset/css/meadia.css" rel="stylesheet" />
 </head>
 <body>
-   <partial name="_PartialAdminHeader" />
-
-    @RenderBody()
-
+    <partial name="_PartialAdminHeader" />
+    <main class="container-fluid">
+        <div class="row">
+            <partial name="_PartialAdminSideBar" />
+            <div class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                @RenderBody()
+            </div>
+            </div>
+</main>
     <script src="/asset/js/bootstrap.bundle.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js"

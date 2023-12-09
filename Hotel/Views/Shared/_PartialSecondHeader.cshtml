@@ -25,6 +25,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#">پشتیبانی</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Admin" asp-controller="Dashboard" asp-action="AdminDashboard">ادمین</a>
+                        </li> 
                     </ul>
 
                     @if (User.Identity.IsAuthenticated)

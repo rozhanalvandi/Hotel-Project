@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hotel.Project
+build_property.RootNamespace = Hotel.Project
+build_property.ProjectDir = /Users/rozhanalvandi/Projects/Hotel/Hotel/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/rozhanalvandi/Projects/Hotel/Hotel
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Dashboard/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0FkbWluRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/CreateBaner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9DcmVhdGVCYW5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/DeleteBaner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9EZWxldGVCYW5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/EditBaner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9FZGl0QmFuZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/MiniBaners/ListOfBaners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9MaXN0T2ZCYW5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAllHotels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWxsSG90ZWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Shared/_PartialAdminHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19QYXJ0aWFsQWRtaW5IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Shared/_PartialAdminSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19QYXJ0aWFsQWRtaW5TaWRlQmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/Shared/_PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWFsRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/Shared/_PartialHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWFsSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/Shared/_PartialSecondHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWFsU2Vjb25kSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/User/UserDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Vc2VyRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

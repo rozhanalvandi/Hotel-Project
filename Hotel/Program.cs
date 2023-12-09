@@ -1,4 +1,5 @@
-﻿using Hotel.Data;
+﻿using Hotel.Core;
+using Hotel.Data;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +13,10 @@ public class Program
         
         builder.Services.AddDbContext<MyContext>(op =>
                op.UseSqlite(builder.Configuration.GetConnectionString("AppDbContext")));
+
+        builder.Services.AddScoped<IHotelService, HotelService>();
+
+
         builder.Services.AddControllersWithViews();
         builder.Services.AddAuthentication(option =>
 
@@ -31,8 +36,10 @@ public class Program
         var app = builder.Build();
 
         app.UseStaticFiles();
-        app.UseRouting();
         app.UseAuthentication();
+        app.UseRouting();
+        app.UseAuthorization();
+        
         app.UseEndpoints(endpints =>
         {
             endpints.MapControllerRoute(

@@ -8,6 +8,7 @@ using Hotel.Models.Entities.User;
 using Hotel.ViewModels;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -46,7 +47,7 @@ namespace Hotel.Controllers
                 };
                 _context.users.Add(user);
                 _context.SaveChanges();
-                return View();
+                return RedirectToAction("login");
             }
             ModelState.AddModelError("ModelOnly", "لطفا فیلد ها را پر کنید");
             return View(register);
@@ -101,14 +102,11 @@ namespace Hotel.Controllers
             HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
             return RedirectToAction("login");
         }
-
+        [Authorize]
         public IActionResult UserDashboard()
         {
-            if (User.Identity.IsAuthenticated)
-            {
                 return View();
-            }
-            return RedirectToAction("login");
+         
         }
     }
 }

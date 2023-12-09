@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Hotell>
+<div class="container">
+    <h2 class="py-3">لیست بنرها</h2>
+    <div class="row">
+        <div class="col-12 pb-3">
+            <a asp-action="CreateHotel" class="btn btn-outline-primary">ایجاد هتل </a>
+        </div>
+        <div class="col-12">
+            <div class="admin-table ">
+                <table class="table">
+                    <thead>
+                        <tr class="table-secondary">
+                            <th>عنوان</th>
+                            <th>وضعیت</th>
+                            <th> تعداد اتاق</th>
+                            <th>مکمل ها</th>
+                            <th>اتاق ها</th>
+                            <th>عملیات</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.Any())
+                        {
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Title</td>
+                                    @if (item.IsActive)
+                                    {
+                                        <td><button class="btn btn-sm btn-success">فعال</button></td>
+                                    }
+                                    else
+                                    {
+                                        <td><button class="btn btn-sm btn-danger">غیر فعال</button></td>
+                                    }
+                                    <td>@item.RoomCount</td>
+                                    <td>
+                                        <a href="#" class="btn btn-sm btn-outline-primary">تصویر</a>
+                                        <a href="#" class="btn btn-sm btn-outline-primary ms-2">قوانین</a>
+                                    </td>
+                                    <td>
+                                        <a href="#" class="btn btn-sm btn-outline-primary">اتاق ها</a>
+                                    </td>
+
+                                    <td>
+                                        <a asp-controller="Product" asp-action="EditHotel" asp-route-Id="@item.Id" class="btn btn-sm btn-outline-warning">ویرایش</a>
+                                        <a asp-controller="Product" asp-action="DeleteHotel" asp-route-Id="@item.Id" class="btn btn-sm btn-outline-danger ms-2">حذف</a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td class="fs-5 fw-600">در حال حاضر هتلی ثبت نشده است لطفا از دکمه افزودن هتل استفاده نمایید</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="asset/js/bootstrap.bundle.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js"
+        integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"
+        integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha"
+        crossorigin="anonymous"></script>
+<script src="asset/js/dashboard.js"></script>

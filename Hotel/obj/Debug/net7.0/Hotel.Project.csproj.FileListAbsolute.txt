@@ -1,0 +1,9 @@
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.csproj.AssemblyReference.cache
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.AssemblyInfoInputs.cache
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.AssemblyInfo.cs
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.csproj.CoreCompileInputs.cache
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.MvcApplicationPartsAssemblyInfo.cs
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.MvcApplicationPartsAssemblyInfo.cache
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.RazorAssemblyInfo.cache
+/Users/rozhanalvandi/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.Project.RazorAssemblyInfo.cs
