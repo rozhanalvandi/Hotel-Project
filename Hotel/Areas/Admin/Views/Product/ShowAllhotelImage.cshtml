@@ -1,0 +1,27 @@
+﻿@model ShowHotelImagesVM
+@{
+    ViewData["Title"] = "ShowAllHotelImage";
+}
+
+<div class="mt-4">
+    <div class="row align-items-center ">
+        <div class="pb-3">
+            <a asp-action="AddImage" asp-route-id="@Model.Id" class="btn btn-outline-primary">افزودن تصویر</a>
+        </div>
+        @if (Model.hotelGalleries.Any())
+        {
+            @foreach (var item in Model.hotelGalleries)
+            {
+                <div class="col-lg-4 col-md-6 py-3 row justify-content-center">
+                    <img class="img-thumbnail gallery-img" src="/asset/img/HotelImages/@item.ImageName" alt="">
+                    <a class="btn btn-outline-danger w-50 mt-3" asp-action="DeleteImage" asp-route-id="@item.Id">حذف</a>
+                </div>
+            }
+        }
+        else
+        {
+            <p class="fs-5 fw-600 text-center">در حال حاضر تصویری موجود نمیباشد</p>
+        }
+    </div>
+</div>
+

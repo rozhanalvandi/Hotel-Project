@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hotel.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20231209132311_edit")]
-    partial class edit
+    [Migration("20231211110536_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,7 +33,7 @@ namespace Hotel.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("AdvantageRoom");
+                    b.ToTable("advantageRooms");
                 });
 
             modelBuilder.Entity("Hotel.Models.Entities.Product.AdvantageToRoom", b =>

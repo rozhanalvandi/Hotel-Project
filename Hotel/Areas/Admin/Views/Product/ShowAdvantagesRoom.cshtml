@@ -1,0 +1,47 @@
+﻿@model ShowAdvantagesRoomVM
+
+@{
+    ViewData["Title"] = "ShowAllAdvantage";
+}
+
+<h2 class="py-3">@Model.Name لیست ویژگی ها</h2>
+<div class="row">
+    <div class="col-12 pb-3">
+        <a asp-action="AddAdvanatgeToRoom" asp-route-id="@Model.RoomId" class="btn btn-outline-primary">مدیریت ویژگی</a>
+    </div>
+    <div class="col-12">
+        <div class="admin-table ">
+            <table class="table">
+                <thead>
+                    <tr class="table-secondary">
+                        <th>عنوان</th>
+                       
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.advantageRooms.Any())
+                    {
+                        @foreach (var item in Model.advantageRooms)
+                        {
+                            <tr>
+                                <td>@item.Name</td>
+                                
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td class="col-4">
+                                در حال حاضر ویژگی موجود نمیباشد
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+ 

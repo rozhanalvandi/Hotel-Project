@@ -30,7 +30,7 @@ namespace Hotel.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("AdvantageRoom");
+                    b.ToTable("advantageRooms");
                 });
 
             modelBuilder.Entity("Hotel.Models.Entities.Product.AdvantageToRoom", b =>
@@ -50,7 +50,7 @@ namespace Hotel.Migrations
 
                     b.HasIndex("RoomId");
 
-                    b.ToTable("AdvantageToRoom");
+                    b.ToTable("advantageToRs");
                 });
 
             modelBuilder.Entity("Hotel.Models.Entities.Product.HotelAdderss", b =>

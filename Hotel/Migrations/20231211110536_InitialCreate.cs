@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Hotel.Migrations
 {
     /// <inheritdoc />
-    public partial class createhoteltable : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "AdvantageRoom",
+                name: "advantageRooms",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
@@ -21,7 +21,7 @@ namespace Hotel.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_AdvantageRoom", x => x.Id);
+                    table.PrimaryKey("PK_advantageRooms", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -52,7 +52,7 @@ namespace Hotel.Migrations
                     EnteryTime = table.Column<string>(type: "TEXT", nullable: false),
                     ExitTime = table.Column<string>(type: "TEXT", nullable: false),
                     dateTime = table.Column<DateTime>(type: "TEXT", nullable: false),
-                    IsActivec = table.Column<bool>(type: "INTEGER", nullable: false),
+                    IsActive = table.Column<bool>(type: "INTEGER", nullable: false),
                     HotellId = table.Column<int>(type: "INTEGER", nullable: true)
                 },
                 constraints: table =>
@@ -181,9 +181,9 @@ namespace Hotel.Migrations
                 {
                     table.PrimaryKey("PK_AdvantageToRoom", x => new { x.AdvantageId, x.RoomId });
                     table.ForeignKey(
-                        name: "FK_AdvantageToRoom_AdvantageRoom_AdvantageId",
+                        name: "FK_AdvantageToRoom_advantageRooms_AdvantageId",
                         column: x => x.AdvantageId,
-                        principalTable: "AdvantageRoom",
+                        principalTable: "advantageRooms",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
@@ -294,7 +294,7 @@ namespace Hotel.Migrations
                 name: "users");
 
             migrationBuilder.DropTable(
-                name: "AdvantageRoom");
+                name: "advantageRooms");
 
             migrationBuilder.DropTable(
                 name: "hotelRooms");

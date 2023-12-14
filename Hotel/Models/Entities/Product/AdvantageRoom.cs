@@ -7,6 +7,8 @@ namespace Hotel.Models.Entities.Product
 	{
 		[Key]
 		public int Id { get; set; }
+
+
 		[Display(Name ="نام")]
 		[Required(ErrorMessage ="لطفا فیلد {0} را پر کنید")]
 		[MaxLength(25,ErrorMessage ="تعداد کاراکتر ها نمیتواند بیشتر از {1} باشد")]

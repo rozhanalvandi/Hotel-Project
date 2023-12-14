@@ -1,46 +1,75 @@
 ﻿<Properties StartupConfiguration="{2B665A1E-6524-4FF8-80DF-C3BF5DD33398}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel/Areas/Admin/Views/Product/EditHotel.cshtml">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel/Core/HotelService.cs">
     <Files>
-      <File FileName="Hotel/Areas/Admin/Controllers/DashboardController.cs" Line="1" Column="1" />
-      <File FileName="Hotel/Areas/Admin/Controllers/MiniBanersController.cs" Line="78" Column="24" />
-      <File FileName="Hotel/Models/Entities/Web/FirstBaner.cs" Line="1" Column="1" />
-      <File FileName="Hotel/Areas/Admin/Controllers/ProductController.cs" Line="88" Column="54" />
-      <File FileName="Hotel/Areas/Admin/Views/MiniBaners/EditBaner.cshtml" Line="1" Column="1" />
-      <File FileName="Hotel/Areas/Admin/Views/MiniBaners/CreateBaner.cshtml" Line="1" Column="1" />
-      <File FileName="Hotel/Core/HotelService.cs" Line="70" Column="1" />
-      <File FileName="Hotel/Core/IHotelService.cs" Line="16" Column="21" />
-      <File FileName="Hotel/ViewModels/Product/Hotel/EditHootelViewModel.cs" Line="7" Column="21" />
-      <File FileName="Hotel/Areas/Admin/Views/Product/EditHotel.cshtml" Line="6" Column="1" />
-      <File FileName="Hotel/Areas/Admin/Views/Product/CreateHotel.cshtml" Line="23" Column="41" />
+      <File FileName="Hotel/Areas/Admin/Controllers/ProductController.cs" Line="253" Column="45" />
+      <File FileName="Hotel/Core/IHotelService.cs" />
+      <File FileName="Hotel/Core/HotelService.cs" Line="145" Column="1" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/ShowAllRooms.cshtml" />
+      <File FileName="Hotel/ViewModels/Product/HotelRooms/ShowSingleRoomVM.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/_ViewImports.cshtml" />
+      <File FileName="Hotel/Models/Entities/Product/HotelRoom.cs" />
+      <File FileName="Hotel/Models/Entities/Product/HotelRules.cs" />
+      <File FileName="Hotel/Models/Entities/Product/AdvantageRoom.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/ShowAllHotels.cshtml" />
+      <File FileName="Hotel/ViewModels/Product/HotelRooms/AddRoomVM.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/AddRoom.cshtml" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/AddImage.cshtml" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/AddRules.cshtml" />
+      <File FileName="Hotel/ViewModels/Product/HotelRooms/ShowAllRoomsVM.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/ShowAllhotelImage.cshtml" />
+      <File FileName="Hotel/Models/Entities/Product/HotelGallery.cs" />
+      <File FileName="Hotel/ViewModels/Product/HotelRules/CrudForRulesVM.cs" Line="15" Column="1" />
+      <File FileName="Hotel/ViewModels/Product/HotelImages/ShowHotelImagesVM.cs" />
+      <File FileName="Hotel/ViewModels/Product/HotelImages/AddandDeleteImageVM.cs" />
+      <File FileName="Hotel/Models/Entities/Product/Hotell.cs" />
+      <File FileName="Hotel/Models/Entities/Product/Reserve.cs" />
+      <File FileName="Hotel/Models/Entities/Product/HotelAdderss.cs" />
+      <File FileName="Hotel/Models/Entities/Product/AdvantageToRoom.cs" />
+      <File FileName="Hotel/Data/MyContext.cs" Line="17" Column="1" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/EditRoom.cshtml" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/DeleteRoom.cshtml" />
+      <File FileName="Hotel/ViewModels/Product/Advantage/CrudforAdvantageVM.cs" />
+      <File FileName="Hotel/Areas/Admin/Controllers/MiniBanersController.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/AddAdvantage.cshtml" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/DeleteAdvantage.cshtml" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/EditAdvantage.cshtml" />
+      <File FileName="Hotel/Areas/Admin/Views/Shared/_PartialAdminSideBar.cshtml" />
+      <File FileName="Hotel/ViewModels/Product/Advantage/ShowAdvantageSRoomVM.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/ShowAdvantagesRoom.cshtml" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/AddAdvantageToRoom.cshtml" />
+      <File FileName="Hotel/ViewModels/Product/ReserveDate/ShowAllReserveDateVM.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/ShowAllReserveDate.cshtml" />
+      <File FileName="Hotel/ViewModels/Product/ReserveDate/ReserveDateVM.cs" />
+      <File FileName="Hotel/Areas/Admin/Views/Product/AddReserveDateToRoom.cshtml" />
+      <File FileName="Hotel/Program.cs" Line="15" Column="1" />
+      <File FileName="Hotel/Migrations/MyContextModelSnapshot.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Hotel" expanded="True">
             <Node name="Hotel">
-              <Node name="Areas">
-                <Node name="Admin">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
                   <Node name="Controllers" expanded="True" />
-                  <Node name="Views">
-                    <Node name="MiniBaners" expanded="True" />
-                    <Node name="Product" expanded="True">
-                      <Node name="EditHotel.cshtml" selected="True" />
-                    </Node>
-                  </Node>
                 </Node>
               </Node>
-              <Node name="Controllers" expanded="True" />
-              <Node name="Core" expanded="True" />
+              <Node name="Core" expanded="True">
+                <Node name="HotelService.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Extention" expanded="True" />
               <Node name="Models" expanded="True">
                 <Node name="Entities" expanded="True">
                   <Node name="Product" expanded="True" />
-                  <Node name="User" expanded="True" />
-                  <Node name="Web" expanded="True" />
                 </Node>
               </Node>
-              <Node name="ViewModels">
+              <Node name="ViewModels" expanded="True">
                 <Node name="Product" expanded="True">
-                  <Node name="Hotel" expanded="True" />
+                  <Node name="HotelImages" expanded="True" />
+                  <Node name="HotelRules" expanded="True" />
+                  <Node name="ReserveDate" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -49,11 +78,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Hotel PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Hotel PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

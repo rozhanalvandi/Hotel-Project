@@ -36,20 +36,96 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWluaUJhbmVycy9MaXN0T2ZCYW5lcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/AddAdvantage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BZGRBZHZhbnRhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/AddAdvantageToRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BZGRBZHZhbnRhZ2VUb1Jvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/AddImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BZGRJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/AddReserveDateToRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BZGRSZXNlcnZlRGF0ZVRvUm9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/AddRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BZGRSb29tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/AddRules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BZGRSdWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/CreateHotel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9DcmVhdGVIb3RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/DeleteAdvantage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9EZWxldGVBZHZhbnRhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/DeleteHotel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9EZWxldGVIb3RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/DeleteImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9EZWxldGVJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/DeleteRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9EZWxldGVSb29tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/DeleteRule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9EZWxldGVSdWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/EditAdvantage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9FZGl0QWR2YW50YWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/EditHotel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9FZGl0SG90ZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/EditRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9FZGl0Um9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/EditRule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9FZGl0UnVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAdvantagesRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWR2YW50YWdlc1Jvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAllAdvantage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWxsQWR2YW50YWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAllhotelImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWxsaG90ZWxJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAllHotels.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWxsSG90ZWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAllReserveDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWxsUmVzZXJ2ZURhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAllRooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWxsUm9vbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Product/ShowAllRules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaG93QWxsUnVsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/rozhanalvandi/Projects/Hotel/Hotel/Areas/Admin/Views/Shared/_AdminLayout.cshtml]

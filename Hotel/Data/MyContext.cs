@@ -31,6 +31,8 @@ namespace Hotel.Data
         public DbSet<HotelRoom> hotelRooms { get; set; }
         public DbSet<HotelRules> hotelRules { get; set; }
         public DbSet<Reserve> reserveDates { get; set; }
+        public DbSet<AdvantageRoom> advantageRooms { get; set; }
+        public DbSet<AdvantageToRoom> advantageToRs { get; set; }
 
     }
 
